@@ -4,10 +4,15 @@ Browser-based rhythm games where your performance shapes the music.
 
 ## Repositories
 
-| Repo | Description |
-|------|-------------|
-| [beatfall](https://github.com/mroncka/beatfall) | Rhythm game client — Web Audio API, Canvas 2D, TypeScript |
-| [beatfall-sync](https://github.com/Beatfall/beatfall-sync) | Real-time multiplayer synchronization engine |
+| Repo | Description | Visibility |
+|------|-------------|------------|
+| [beatfall](https://github.com/Beatfall/beatfall) | Orchestrator — ties all components together via git submodules | private |
+| [beatfall-game](https://github.com/Beatfall/beatfall-game) | Main game integrating all Beatfall components into a cohesive cooperative music experience | private |
+| [beatfall-sync](https://github.com/Beatfall/beatfall-sync) | Real-time multiplayer music composition synchronization engine | private |
+| [beatfall-audio](https://github.com/Beatfall/beatfall-audio) | Music assets, sound effects, audio processing tools, and metadata-tagged audio library | private |
+| [beatfall-art](https://github.com/Beatfall/beatfall-art) | Concept art, visual design assets, style guides, and art direction | private |
+| [beatfall-prototypes](https://github.com/Beatfall/beatfall-prototypes) | Rapid gameplay prototypes — from one-shot experiments to validated concepts | private |
+| [beatfall-research](https://github.com/Beatfall/beatfall-research) | Research papers, design documents, terminology glossary, and reference materials | private |
 
 ## What we're building
 
